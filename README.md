@@ -1,13 +1,10 @@
-# Welcome to Defold
+# Defold Strapi demo
 
-This project was created from the "empty" project template.
+This project displays data fetched from a Strapi CMS server.
+Specifically, it displays 'restaurant' data from the Strapi live demo which you can register for at https://strapi.io/demo
 
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
+Demo server access is time-limited but you can register again using an email of the format your_normal_username+extra_chars@your-email_host
 
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
-
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
-
-Happy Defolding!
+Modify the server details at the top of main.gui_script to match the server you were allocated.
 
 ---
